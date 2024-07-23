@@ -30,5 +30,5 @@ This is a simple chat application built with Next.js and TypeScript. Users can e
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:rus-rotar24/test-chat.git
    cd my-chat-app
